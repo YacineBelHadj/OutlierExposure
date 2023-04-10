@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yacine/Documents/PhD/Code/LocalProject/OutlierExposure/mlruns/620142442026431657/cf28141b1bfe403886432c9f40701a12/artifacts
+end_time: 1681154011237
+entry_point_name: ''
+experiment_id: '620142442026431657'
+lifecycle_stage: active
+run_id: cf28141b1bfe403886432c9f40701a12
+run_name: colorful-shark-501
+run_uuid: cf28141b1bfe403886432c9f40701a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681153799761
+status: 4
+tags: []
+user_id: yacine

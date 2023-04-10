@@ -1,0 +1,15 @@
+artifact_uri: file:///home/yacine/Documents/PhD/Code/LocalProject/OutlierExposure/mlruns/620142442026431657/1d7916c9cb434bc2b8afe4f12a062b98/artifacts
+end_time: 1681135392011
+entry_point_name: ''
+experiment_id: '620142442026431657'
+lifecycle_stage: active
+run_id: 1d7916c9cb434bc2b8afe4f12a062b98
+run_name: rogue-wren-811
+run_uuid: 1d7916c9cb434bc2b8afe4f12a062b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681135181322
+status: 4
+tags: []
+user_id: yacine

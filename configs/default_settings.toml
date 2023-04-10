@@ -1,0 +1,5 @@
+[default]
+path_raw_data ='/media/yacine/Intenso/RawData'
+path_processed_data='data/processed'
+path_project='/home/yacine/Documents/PhD/Code/LocalProject/OutlierExposure'
+    
